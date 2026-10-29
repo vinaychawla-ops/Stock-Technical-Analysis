@@ -1,0 +1,5 @@
+Ticker,Signal,Reason,RSI,SMA_50,SMA_200,MACD,MACD_Signal
+AAPL,HOLD,"RSI 48.9 neutral (30-70), MACD bearish",48.87,286.16,266.79,1.82,5.01
+MSFT,HOLD,"RSI 42.2 neutral (30-70), MACD bearish",42.23,411.72,451.35,-4.56,0.27
+NVDA,HOLD,"RSI 51.1 neutral (30-70), MACD bearish",51.1,207.4,189.19,-0.77,0.89
+TSLA,HOLD,"RSI 50.3 neutral (30-70), MACD bearish",50.34,399.3,416.0,-1.77,1.4

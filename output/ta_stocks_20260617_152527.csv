@@ -1,0 +1,2 @@
+Ticker,Signal,Reason,RSI,SMA_50,SMA_200,MACD,MACD_Signal
+MU,HOLD,"RSI 63.5 neutral (30-70), MACD bearish",63.46,718.92,395.71,89.6,92.2

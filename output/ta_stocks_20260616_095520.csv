@@ -1,0 +1,2 @@
+Ticker,Signal,Reason,RSI,SMA_50,SMA_200,MACD,MACD_Signal
+BMNR,HOLD,"RSI 43.7 neutral (30-70), MACD bearish",43.65,20.25,31.17,-1.19,-1.13

@@ -1,0 +1,2 @@
+Ticker,Signal,Reason,RSI,SMA_50,SMA_200,MACD,MACD_Signal
+AVGO,HOLD,"RSI 45.3 neutral (30-70), MACD bearish",45.29,408.04,357.75,-6.34,0.85
